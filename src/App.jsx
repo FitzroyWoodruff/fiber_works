@@ -1,7 +1,5 @@
-
-
-import './App.css'
-import Fiber from '../components/Fiber'
+import './App.css';
+import Fiber from '../components/Fiber';
 
 function App() {
 
@@ -13,4 +11,4 @@ function App() {
   )
 }
 
-export default App
+export default App;

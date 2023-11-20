@@ -12,7 +12,7 @@ const Box = (props) => {
   return (
     <mesh
       {...props}
-      ref={ref}
+      ref={ref} 
       scale={clicked ? 1.5 : 1}
       onClick={(event) => click(!clicked)}
       onPointerOver={(event) => hover(true)}
