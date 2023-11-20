@@ -1,4 +1,4 @@
-import './App.css';
+
 import Fiber from '../components/Fiber';
 
 function App() {
